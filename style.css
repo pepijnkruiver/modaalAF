@@ -1,0 +1,95 @@
+body {
+    background-color: lightsteelblue;
+}
+
+#swag {
+    width: 850px;
+    height: 300px;
+    text-align: center;
+    font-family: impact;
+    position: relative;
+    margin:0 auto;
+}
+#tekst{
+font-family: sans-serif;
+color:dimgray;
+font-size: 15px;
+
+
+}
+#tekst2{
+font-family: sans-serif;
+color:darkgoldenrod;
+font-size: 50px;
+
+
+}
+
+#weezing {
+    width: 220px;
+    height: 200px;
+    margin: 10px;
+    background-color: white;
+    
+}
+
+#snorlax {
+    width: 220px;
+    height: 200px;
+    margin: 10px;
+    background-color: white;
+    
+}
+
+#butterfree {
+    width: 220px;
+    height: 200px;
+    margin: 10px;
+    background-color: white;
+    
+}
+
+
+
+
+#weezing2 {
+    text-align: center;
+    margin:200px;
+    width: 450px;
+    height: 280px;
+    padding: 2%;
+   
+}
+
+#snorlax2 {
+    position: relative;
+    margin:200px;
+    width: 450px;
+    height: 280px;
+    padding: 2%;
+}
+
+#butterfree2 {
+    position: relative;
+    margin:200px;
+    width: 450px;
+    height: 280px;
+    padding: 2%;
+
+}
+
+.modaal {
+    position: fixed;
+    font-family:monospace;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.modaal2 {
+    position: relative;
+    font-family: sans-serif;
+    background-color:white;
+    border-style: ridge;
+}
